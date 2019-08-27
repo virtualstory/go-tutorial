@@ -1,6 +1,8 @@
 
-tutorials
-- [working-with-go](https://mkaz.blog/working-with-go)
+## 教程
+- [working-with-go 翻译及示例](./working-with-go)
+- [a introduction to programming in go](./a-introduction-to-programming-in-go)
 
-tools
-- [play go online](https://play.golang.org/p/DC7R7XKzZ5G)
+## 工具
+- [go在线玩耍](https://play.golang.org/p/DC7R7XKzZ5G)
+
